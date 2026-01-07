@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TheoBank.iml" filepath="$PROJECT_DIR$/.idea/TheoBank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theo-common-base/theo-common-base.iml" filepath="$PROJECT_DIR$/theo-common-base/theo-common-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theo-customer-service/theo-customer-service.iml" filepath="$PROJECT_DIR$/theo-customer-service/theo-customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theo-merchant-service/theo-merchant-service.iml" filepath="$PROJECT_DIR$/theo-merchant-service/theo-merchant-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theo-payment-service/theo-payment-service.iml" filepath="$PROJECT_DIR$/theo-payment-service/theo-payment-service.iml" />
+    </modules>
+  </component>
+</project>
