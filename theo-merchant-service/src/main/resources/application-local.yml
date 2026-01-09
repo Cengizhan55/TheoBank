@@ -1,0 +1,13 @@
+spring:
+
+  datasource:
+    platform: postgres
+    url: jdbc:postgresql://localhost:5432/TheoBank
+    username: postgres
+    password: admin
+    driverClassName: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate.default_schema: merchant
