@@ -1,4 +1,4 @@
-package com.theobank.theo_merchant_service.data.entity;
+package com.theobank.theo_merchant_service.domain.data.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
